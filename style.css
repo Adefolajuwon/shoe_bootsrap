@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(255, 254, 254);
+    color: rgb(3, 3, 3);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(247, 244, 244);
+}
+#para{
+    text-align: center;
+    margin-top: 50px;
+}
+.img-text{
+    text-align: center;
+}
+.img-text h4{
+    font-weight: bold;
+}
+.img-text p{
+    margin-top: 0px;
+    padding: 0px;
+    font-weight: -30px;
+}
+.headline2{
+    font-weight: bolder;
+    color: rgb(112, 44, 44);
+}
+#title{
+    color: brown;
+    font-weight: bold;
+}
+#brands h1{
+    text-align: center;
+    font-weight: bolder;
+    font-style: unset;
+    color: black;
+    background-color: beige;
+    margin-bottom: 30px;
+}
+#brand2{
+    margin-top: 5px;
+    margin-bottom: 50px;
+}
